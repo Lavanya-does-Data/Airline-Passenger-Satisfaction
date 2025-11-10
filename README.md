@@ -1,2 +1,3 @@
 # Airline-Passenger-Satisfaction
 This is a Power BI project depicting pie, line and column graphs about an airline business. 
+Dashboard screenshots: https://github.com/Lavanya-does-Data/Airline-Passenger-Satisfaction/blob/main/Screenshot%202025-11-10%20165537.png , https://github.com/Lavanya-does-Data/Airline-Passenger-Satisfaction/blob/main/Screenshot%202025-11-10%20170130.png , https://github.com/Lavanya-does-Data/Airline-Passenger-Satisfaction/blob/main/Screenshot%202025-11-10%20170205.png , https://github.com/Lavanya-does-Data/Airline-Passenger-Satisfaction/blob/main/Screenshot%202025-11-10%20170452.png
